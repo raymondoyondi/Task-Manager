@@ -18,9 +18,9 @@ This project focuses on providing a snappy, client-side solution for personal ta
 
 This project leverages the power and simplicity of core web development languages:
 
-* **HTML5:** Used for structuring the content and semantics of the task manager.
-* **CSS3:** Utilized for styling the application, ensuring a modern and responsive user interface.
-* **JavaScript (Vanilla):** Provides all the interactive functionality, task management logic (adding, deleting, marking complete), and DOM manipulation.
+* **HTML:** Used for structuring the content and semantics of the task manager.
+* **CSS:** Utilized for styling the application, ensuring a modern and responsive user interface.
+* **JavaScript:** Provides all the interactive functionality, task management logic (adding, deleting, marking complete), and DOM manipulation.
 
 ## 🏁 Getting Started
 
